@@ -14,7 +14,3 @@ https://subversivebytes.wordpress.com/2013/04/15/pgp-cryptography-with-the-legio
 https://subversivebytes.wordpress.com/2013/12/10/pgp-cryptography-with-the-legion-of-the-bouncy-castle-part-5/
 
 https://subversivebytes.wordpress.com/2013/12/13/the-legion-of-the-bouncy-castle-listing-public-key-certifications/
-
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/george-haddad/bouncycastle/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
